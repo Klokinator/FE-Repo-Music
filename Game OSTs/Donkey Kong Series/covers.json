@@ -1,9 +1,10 @@
 {
   "aliases": {
-    "DKC": "Donkey Kong Country",
-    "DKC 1": "Donkey Kong Country",
+    "DKC": "Donkey Kong Series",
+    "DKC 1": "Donkey Kong Series",
     "DKC 2": "Donkey Kong Country 2",
     "DKC 3": "Donkey Kong Country 3",
-    "Donkey Kong": "Donkey Kong Series"
+    "Donkey Kong": "Donkey Kong Series",
+    "Donkey Kong Country": "Donkey Kong Series"
   }
 }
